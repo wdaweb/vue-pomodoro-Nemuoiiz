@@ -44,4 +44,5 @@
 
 ## 作業連結
 
-- [GitHub](https://github.com/Nemuoiiz/pomodoro)
+- [GitHub-repo](https://github.com/Nemuoiiz/pomodoro)
+- [GitHub-pomodoro](https://nemuoiiz.github.io/pomodoro/#/)
